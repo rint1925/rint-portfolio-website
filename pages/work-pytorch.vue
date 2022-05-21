@@ -5,7 +5,7 @@
         
         <h2 class="mt-30">Pytorchを用いた時系列分析システムの開発</h2>
         <div>Coming Soon...</div>
-        <NuxtLink class="block link-text pt-8" to="/">[Back]</NuxtLink>
+        <NuxtLink class="inline-block link-text mt-8" to="/">[Back]</NuxtLink>
       </main>
     </div>
   </div>

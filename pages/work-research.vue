@@ -5,7 +5,7 @@
         
         <h2 class="mt-30">万引き検知システムの構築</h2>
         <div>Coming Soon...</div>
-        <NuxtLink class="block link-text pt-8" to="/">[Back]</NuxtLink>
+        <NuxtLink class="inline-block link-text mt-8" to="/">[Back]</NuxtLink>
       </main>
     </div>
   </div>

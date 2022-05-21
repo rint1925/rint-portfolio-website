@@ -1,5 +1,8 @@
+# node dependency
 node_modules
 
+# nuxt build results
 .nuxt
 
+# generated for static website
 dist

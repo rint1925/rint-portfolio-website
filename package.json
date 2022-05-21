@@ -4,8 +4,7 @@
     "dev": "nuxt",
     "generate": "nuxt generate",
     "build": "nuxt build",
-    "start": "nuxt start",
-    "heroku-postbuild": "npm run build"
+    "start": "nuxt start"
   },
   "dependencies": {
     "nuxt": "^2.15.8"

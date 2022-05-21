@@ -1,11 +1,8 @@
 <template>
   <div class="outer-container">
     <div class="board">
-      <div class="header">
         <Identity></Identity>
-      </div>
       <main class="main-content">
-
         <br>
         <h2 class="mt-0">About me</h2>
         <p>同志社大学で情報工学を専攻している修士1年生です。Webフロントエンド、バックエンド、機械学習など幅広い技術に興味があります。
