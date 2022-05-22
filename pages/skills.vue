@@ -15,7 +15,7 @@
         <h3 class="mt-16 mb-4">勉強中のもの</h3>
         <p>Go / SQL</p>
 
-        <h3 class="mt-16 mb-4">その他</h3>
+        <h3 class="mt-16 mb-4">資格等</h3>
         <p>TOEIC公開テスト 830点</p>
 
         <NuxtLink class="inline-block link-text mt-8" to="/">[Back]</NuxtLink>

@@ -19,7 +19,6 @@
         <h2>Works</h2>
         <ul>
         <li>Pytorchを用いた時系列分析システムの開発 <NuxtLink class="link-text" to="/work-pytorch">[詳細]</NuxtLink></li>
-        <li>万引き検知システムの構築 (研究段階) <NuxtLink class="link-text" to="/work-research">[詳細]</NuxtLink></li>
         <li>ポートフォリオサイト (当サイト) <NuxtLink class="link-text" to="/work-portfolio-site">[詳細]</NuxtLink></li>
         </ul>
       </main>
@@ -38,6 +37,5 @@ export default {
 }
 </script>
 
-<style lang="postcss" scoped>
-
+<style scoped>
 </style>

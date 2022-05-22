@@ -4,7 +4,7 @@
       <main class="main-content">
         
         <h2 class="mt-30">ポートフォリオサイト (当サイト)</h2>
-        <div>Coming Soon...</div>
+        <div>端的に分かりやすく伝えられる媒体、と、アピール</div>
         <NuxtLink class="inline-block link-text mt-8" to="/">[Back]</NuxtLink>
       </main>
     </div>
