@@ -9,7 +9,7 @@
           <NuxtLink class="link-text" to="/more-about">[もっと自己紹介]</NuxtLink></p>
         
         <h2>Research</h2>
-          <p>ヒューマンコンピューテーション（人間と人工知能による協調問題解決）に関わる研究をしています。その中でも、私はクラウドソーシングを活用した犯罪検知システムを構築するための研究しています。
+          <p>Human-in the Loop（人間と人工知能による協調問題解決）に関わる研究をしています。その中でも、私はクラウドソーシングを活用した犯罪検知システムを構築するための研究しています。
           <NuxtLink class="link-text" to="/research">[研究詳細]</NuxtLink></p>
         
         <h2>Skills</h2>

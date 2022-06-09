@@ -16,11 +16,12 @@
           <br>
           <p><em>PHP</em> : 研究でのWeb開発</p>
           <br>
-          <p><em>JavaScript</em> : 個人・研究でのWeb開発 (Node.js / Nuxt.js / Vue.js)</p>
+          <p><em>HTML</em> : 当HP作成や研究での開発</p>
           <br>
-          <p><em>HTML</em> : 個人・研究でのWeb開発</p>
+          <p><em>CSS</em> : 当HP作成や研究での開発 (Tailwind CSS)</p>
           <br>
-          <p><em>CSS</em> : 個人・研究でのWeb開発 (Tailwind CSS)</p>
+          <p><em>JavaScript</em> : 当HP作成や研究での開発 (Node.js / Nuxt.js / Vue.js)</p>
+          <br>
           <br><br>
           <p>その他、以下の技術の経験があります。</p>
           <br>
