@@ -14,7 +14,7 @@
             <p>電車に乗って<em>一人旅</em>をするのが好きです。知らない土地の景色を車窓から眺めているのが好きで、JRの「<a href="https://railway.jr-central.co.jp/tickets/youth18-ticket/" target="_blank" rel="noopener noreferrer">青春18きっぷ</a>」を買って在来線で遠くまで旅行することがあります。鹿児島まで2日掛けて行ったこともあります。</p>
             <br>
             <p>Youtubeで<em>Vtuber</em>（バーチャルYoutuber）として個人で配信活動をやっています。</p>
-            <p>3Dモデルやサムネイル等全部自分で作ってます。</p>
+            <p>3Dモデルやサムネイル等全部自分で作ってます。<a href="https://bit.ly/3xpkY0X" target="_blank" rel="noopener noreferrer">[チャンネルURL]</a></p>
             <p>最近は「<a href="https://pjsekai.sega.jp/" target="_blank" rel="noopener noreferrer">プロセカ</a>」という音ゲーにハマっていて、その実況配信ばっかりやっています。</p>
 
           <h3 class="mt-16 mb-6">長所</h3>
