@@ -50,9 +50,11 @@
         <h3 class="mt-16 mb-4">研究発表</h3>
           <br>
           <ul class="marker:text-green-300">
-            <li>板野竜也, 目良侃太郎, 小板隆浩, クラウドソーシングを用いたリアルタイム防犯システムの検討, 電子情報通信学会, ソサイエティ大会, B-11-16, 2021/09. <a href="https://www.ieice.org/publications/conferences/summary.php?id=CONF0000130755&ConfCd=2021S&session_num=B-11&year=2021&ConfType=" target="_blank" rel="noopener noreferrer">[リンク]</a></li>
+            <li>板野竜也, 目良侃太郎, 小板隆浩, クラウドソーシングを用いたリアルタイム防犯システムの検討, 電子情報通信学会, ソサイエティ大会, B-11-16, 2021/09. <a href="https://www.dropbox.com/s/7y49kek1zdutwbm/2021%E5%B9%B4%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%AD%A6%E4%BC%9A%E3%82%BD%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%86%E3%82%A3%E5%A4%A7%E4%BC%9A_Paper.pdf?dl=0" target="_blank" rel="noopener noreferrer">[Paper]</a></li>
             <br>
-            <li>板野竜也, 目良侃太郎, 小板隆浩, クラウドソーシングにおける回答のリアルタイム性向上手法の検討, 電気情報通信学会, 信学技報, vol. 121, no. 326, ICTSSL2021-39, pp. 46-51, 2022/01. <a href="https://www.ieice.org/ken/paper/20220121BCh8/" target="_blank" rel="noopener noreferrer">[リンク]</a></li>
+            <li>板野竜也, 目良侃太郎, 小板隆浩, クラウドソーシングにおける回答のリアルタイム性向上手法の検討, 電気情報通信学会, 信学技報, vol. 121, no. 326, ICTSSL2021-39, pp. 46-51, 2022/01. <a href="https://www.dropbox.com/s/rfe1yh17luazrvy/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9B%9E%E7%AD%94%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E6%80%A7%E5%90%91%E4%B8%8A%E6%89%8B%E6%B3%95%E3%81%AE%E6%A4%9C%E8%A8%8E_Paper.pdf?dl=0" target="_blank" rel="noopener noreferrer">[Paper]</a></li>
+             <br>
+            <li>Ryuya Itano, and Takahiro Koita, Evaluation of the Effectiveness of a Crowdsourcing-based Crime Detection System, IEICE Communications Express, 2022/06. <a href="https://www.dropbox.com/s/b11dhtczsk7wml9/Evaluation%20of%20the%20Effectiveness%20of%20a%20Crowdsourcing-based%20Crime%20Detection%20System_Paper.pdf?dl=0" target="_blank" rel="noopener noreferrer">[Paper]</a></li>
           </ul>
 
         <NuxtLink class="inline-block link-text mt-8" to="/">[Back]</NuxtLink>
